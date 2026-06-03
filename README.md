@@ -70,7 +70,7 @@ streamlit run app.py
 Add your screenshot here:
 
 ```markdown
-![Movie Recommendation App](images/app_screenshot.png)
+![Movie Recommendation App](app.png)
 ```
 
 ## 🌐 Live Demo
