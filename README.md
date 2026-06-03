@@ -2,6 +2,14 @@
 
 A Machine Learning-based Movie Recommendation System that suggests similar movies based on user selection. The application uses movie metadata and content-based filtering techniques to generate personalized recommendations and fetches movie posters using the TMDB API.
 
+## 📸 Application Screenshot
+
+Add your screenshot here:
+
+![Movie Recommendation App](app.png)
+
+
+
 ## 🚀 Features
 
 * Movie recommendations based on similarity
@@ -65,13 +73,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
-## 📸 Application Screenshot
-
-Add your screenshot here:
-
-![Movie Recommendation App](app.png)
-
 
 ## 🌐 Live Demo
 
