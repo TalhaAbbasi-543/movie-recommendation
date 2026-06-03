@@ -7,6 +7,11 @@ A Machine Learning-based Movie Recommendation System that suggests similar movie
 ![Movie Recommendation App](app.png)
 
 
+🚀 Live Demo
+
+🔗 Try the App:
+https://movie-recommendation-qtvowyd5fqz6kgnlqspnxr.streamlit.app/
+
 
 ## 🚀 Features
 
