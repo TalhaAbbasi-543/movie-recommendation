@@ -4,8 +4,6 @@ A Machine Learning-based Movie Recommendation System that suggests similar movie
 
 ## 📸 Application Screenshot
 
-Add your screenshot here:
-
 ![Movie Recommendation App](app.png)
 
 
