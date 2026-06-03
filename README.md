@@ -26,12 +26,13 @@ movie-recommendation/
 
 ├── app.py
 
+└── movie_recommendation.ipynb
+
 ├── movies.pkl
 
 ├── similarity.pkl
 
 ├── requirements.txt
-
 
 ├── README.md
 
@@ -87,10 +88,12 @@ The recommendation engine uses Content-Based Filtering and Cosine Similarity to 
 * Hybrid recommendation system
 * Advanced search and filtering
 * Personalized recommendations
-
+* 
 ## 👨‍💻 Author
 
-Talha Hafeez Abbasi
+**Talha Abbasi**
 
-Final Year Project / Machine Learning Project
+📧 Email: [talhaabbaci543@gmail.com](mailto:talhaabbaci543@gmail.com)
+
+🐙 GitHub: [TalhaAbbasi-543](https://github.com/TalhaAbbasi-543)
 
